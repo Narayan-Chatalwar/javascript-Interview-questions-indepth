@@ -1,5 +1,6 @@
 # JavaScript Interview Questions & Answers
 
+Covered all low, mediam and hard lavel of javascript possible questions that can be asked in the interviews
 
 
 ### Table of Contents
